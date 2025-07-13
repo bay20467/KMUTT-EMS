@@ -1,4 +1,4 @@
-# Flood prediction - CNN
+# River Water level and Flood depth prediction
 Enhancing Flood Forecasting with Deep Learning: A Scalable Alternative to Traditional Hydrodynamic Models 
 
 ## Contributors 
